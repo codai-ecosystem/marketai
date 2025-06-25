@@ -1,9 +1,11 @@
 # Marketai Copilot Instructions
 
 ## Service Overview
+
 AI Marketing Platform - Part of the Codai AI-native ecosystem.
 
 ## Context
+
 - **Domain**: marketai.ro
 - **Port**: 3015
 - **Priority**: 2
@@ -12,6 +14,7 @@ AI Marketing Platform - Part of the Codai AI-native ecosystem.
 - **Styling**: Tailwind CSS
 
 ## Development Guidelines
+
 1. Follow Codai ecosystem patterns and conventions
 2. Implement AI-native features and interactions
 3. Ensure responsive design and accessibility
@@ -19,12 +22,14 @@ AI Marketing Platform - Part of the Codai AI-native ecosystem.
 5. Follow the established component and utility patterns
 
 ## Architecture
+
 - Use Next.js App Router for routing
 - Implement server components where possible
 - Follow the established folder structure
 - Use the shared component library patterns
 
 ## Key Commands
+
 ```bash
 pnpm dev      # Start development server
 pnpm build    # Build for production
@@ -33,6 +38,7 @@ pnpm lint     # Lint code
 ```
 
 ## Integration Points
+
 - Connect with other Codai services via APIs
 - Use shared authentication through logai
 - Implement consistent UI/UX patterns
